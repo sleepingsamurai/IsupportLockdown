@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IsupportLockdown</string>
+    <string name="s_no">S.No</string>
+    <string name="address">ADDRESS</string>
+    <string name="name">NAME</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="_5">5</string>
+    <string name="add_row">ADD ROW</string>
+    <string name="shopkeeper_no">Shopkeeper No.</string>
+    <string name="send">SEND</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+</resources>
